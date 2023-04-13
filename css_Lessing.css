@@ -1,0 +1,26 @@
+#container{
+}
+
+#header{
+	height: 200px;
+	border: 2px solid;
+}
+
+#leftnav{
+	border: 2px solid;
+	float: left;
+	height: 500px;
+	width: 260px;
+}
+
+#body{
+	float: right;
+	height: 500px;
+	width: 800px;
+	border: 2px solid;
+	text-align: left;
+}
+
+#footer{
+	border: 2px solid;
+}
