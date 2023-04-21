@@ -7,6 +7,7 @@
 	height: 200px;
 	width: 100%;
 	border: 2px solid;
+	background-color: green;
 }
 
 #leftnav{
@@ -14,6 +15,7 @@
 	float: left;
 	height: 500px;
 	width: 20%;
+	background-color: blue;
 }
 
 #body{
@@ -22,8 +24,10 @@
 	width: 80%;
 	border: 2px solid;
 	text-align: left;
+	background-color: red;
 }
 
 #footer{
 	border: 2px solid;
+	background-color: yellow;
 }
