@@ -7,15 +7,14 @@
 	height: 200px;
 	width: 100%;
 	border: 2px solid;
-	background-color: green;
 }
 
 #leftnav{
 	border: 2px solid;
 	float: left;
 	height: 500px;
-	width: 20%;
-	background-color: blue;
+	width: 19.2%;
+	overflow: auto;
 }
 
 #body{
@@ -24,10 +23,10 @@
 	width: 80%;
 	border: 2px solid;
 	text-align: left;
-	background-color: red;
+	overflow: auto;
 }
 
 #footer{
 	border: 2px solid;
-	background-color: yellow;
+	clear: both;
 }
